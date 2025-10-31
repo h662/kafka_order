@@ -1,4 +1,4 @@
-package com.example.kafka_order.model;
+package com.example.kafka_order.event;
 
 import lombok.Builder;
 import lombok.Data;

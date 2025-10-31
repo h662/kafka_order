@@ -1,4 +1,4 @@
-package com.example.kafka_order.model;
+package com.example.kafka_order.event;
 
 import com.fasterxml.jackson.annotation.JsonSubTypes;
 import com.fasterxml.jackson.annotation.JsonTypeInfo;
